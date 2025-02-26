@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://picsum.photos/1200/300)
+![Banner](https://source.unsplash.com/1200x300/?technology)
 
 # Hi there, I'm Muhammad Hamza Gova 👋
 **Software Engineer | AI Enthusiast | FAST-NUCES Senior**
