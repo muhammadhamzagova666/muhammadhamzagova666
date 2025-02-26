@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://placehold.co/1200x300/0D1117/FFFFFF?text=Muhammad+Hamza+Gova&font=Open+Sans&font_size=169)
+![Banner](banner.png)
 
 # Hi there, I'm Muhammad Hamza Gova 👋
 **Software Engineer | AI Enthusiast | FAST-NUCES Senior**
