@@ -1,38 +1,56 @@
-# 💫 About Me:
-Hi there, I'm Muhammad Hamza Gova 👋<br><br>
-I'm a **Software Engineer** and a **Senior at FAST-NUCES** based in Karachi, Sindh, Pakistan. I'm passionate about building scalable applications and exploring innovative solutions in machine learning and web development. Check out my projects and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammadhamzagova666).<br><br>
+<!-- Banner -->
+![Banner](https://via.placeholder.com/1200x300.png?text=Muhammad+Hamza+Gova)
+
+# Hi there, I'm Muhammad Hamza Gova 👋
+**Software Engineer | AI Enthusiast | FAST-NUCES Senior**
+
+I'm a dedicated Software Engineer and Senior at FAST-NUCES based in Karachi, Sindh, Pakistan. Passionate about building scalable applications and exploring innovative solutions in machine learning and web development, I thrive on turning complex problems into elegant solutions.
 
 ## About Me
+- **Current Projects:**  
+  I'm currently developing a range of projects—from AI-powered web applications to full-stack systems and experimental AI games. My latest project, **PalmSecure**, is an advanced biometric authentication system using palmprint recognition with a Comprehensive Competition Network (CCNet) that leverages spatial competition relationships and multi-order texture features for enhanced security.
+- **Collaboration:**  
+  I’m eager to collaborate on open-source initiatives, cutting-edge AI research, and full-stack development projects.
+- **Looking for Help With:**  
+  Refining advanced machine learning algorithms, optimizing web application performance, and integrating robust security features.
+- **Learning:**  
+  Continuously exploring the latest in AI/ML techniques, modern web frameworks, and scalable system design.
+- **Ask Me About:**  
+  Software development best practices, machine learning projects, full-stack web development, or my journey balancing academics and hands-on coding.
+- **Fun Fact:**  
+  Every project is a new adventure in learning and creativity!
 
-- **I'm currently working on:**  
-  Developing a range of projects—from AI-powered web applications to full-stack systems and even experimental AI games. My latest project, **PalmSecure**, is an advanced biometric authentication system using palmprint recognition with a Comprehensive Competition Network (CCNet). This innovative approach enhances traditional biometric systems by incorporating spatial competition relationships and multi-order texture features, resulting in higher recognition accuracy for security applications.
+## 🚀 Featured Projects (Pinned)
+- **Product Title Classification:**  
+  A machine learning-powered web application built with Flask that categorizes product titles using SVM, Random Forest, and Decision Tree classifiers.  
+  [View on GitHub](https://github.com/muhammadhamzagova666/product-title-classification)
+- **Doctor Appointment System:**  
+  A full-stack MERN application for managing doctor appointments with real-time scheduling and secure authentication.  
+  [View on GitHub](https://github.com/muhammadhamzagova666/doctor-appointment-system)
+- **Employee Attendance Management System:**  
+  A robust system to track attendance and manage leaves with secure authentication and detailed dashboards.  
+  [View on GitHub](https://github.com/muhammadhamzagova666/employee-attendance-management-system)
+- **AI Pong NEAT:**  
+  An AI-controlled Pong game powered by the NEAT algorithm, showcasing neural network evolution using Python and Pygame.  
+  [View on GitHub](https://github.com/muhammadhamzagova666/ai-pong-neat)
+- **Multiplayer Chess Game:**  
+  A feature-rich chess application supporting both local and online gameplay, with AI integration via Stockfish.  
+  [View on GitHub](https://github.com/muhammadhamzagova666/multiplayer-chess-game)
+- **SAGAI24 Security Analysis:**  
+  A comprehensive analysis of security architectures for Generative AI systems based on research papers presented at SAGAI'24.  
+  [View on GitHub](https://github.com/muhammadhamzagova666/SAGAI24-Security-Analysis)
 
-- **I'm looking to collaborate on:**  
-  Open-source initiatives, cutting-edge AI research, and full-stack development projects that challenge the norm and push technological boundaries.
-
-- **I'm looking for help with:**  
-  Refining advanced machine learning algorithms, optimizing web application performance, and integrating robust security features into innovative software solutions.
-
-- **I'm currently learning:**  
-  The latest in AI and machine learning techniques, modern web frameworks, and scalable system design to keep up with the rapidly evolving tech landscape.
-
-- **Ask me about:**  
-  Software development best practices, machine learning projects, full-stack web development, or my journey as a senior balancing academic pursuits with real-world coding challenges.
-
-- **Fun fact:**  
-  I thrive on turning complex problems into elegant solutions—whether it's coding a self-learning AI for a game or building an intuitive full-stack app, every project is a new adventure in learning and creativity!
-
-## 📫 How to reach me:
+## 📫 How to Reach Me
 - **Email:** [mhgb14@gmail.com](mailto:mhgb14@gmail.com)
 - **LinkedIn:** [Muhammad Hamza Gova](https://www.linkedin.com/in/muhammadhamzagova666)
 - **Facebook:** [Muhammad Hamza Gova](https://facebook.com/muhammadhamzagova666)
 - **Instagram:** [hamzagova666](https://instagram.com/hamzagova666)
-- **X:** [@hamzagova666](https://x.com/hamzagova666)
+- **X (Twitter):** [@hamzagova666](https://x.com/hamzagova666)
 
-## 😄 Pronouns:
+## 😄 Pronouns
 He/Him
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/hamzagova666.bsky.social)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/muhammadhamzagova666)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hamzagova666)
@@ -40,7 +58,7 @@ He/Him
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=X&logoColor=white)](https://x.com/hamzagova666)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mhgb14@gmail.com)
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=flat-square&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -76,7 +94,6 @@ He/Him
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
@@ -129,9 +146,9 @@ He/Him
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadhamzagova666&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamzagova666&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=muhammadhamzagova666&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamzagova666&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamzagova666&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -143,5 +160,4 @@ He/Him
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammadhamzagova666&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=muhammadhamzagova666&icon=0&color=0)](https://visitcount.itsvg.in)
