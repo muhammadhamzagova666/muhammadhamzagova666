@@ -8,12 +8,12 @@ I'm a dedicated Software Engineer and Senior at FAST-NUCES based in Karachi, Sin
 
 ---
 
-## 😄 Pronouns
+### 😄 Pronouns
 He/Him
 
 ---
 
-## About Me
+### About Me
 - **Current Projects:**  
   I'm developing a range of projects—from AI-powered web applications to full-stack systems and experimental AI games. My latest project, **PalmSecure**, is an advanced biometric authentication system using palmprint recognition with a Comprehensive Competition Network (CCNet) that leverages spatial competition relationships and multi-order texture features for enhanced security.
 - **Collaboration:**  
@@ -29,7 +29,7 @@ He/Him
 
 ---
 
-## 🚀 Featured Projects (Pinned)
+### 🚀 Featured Projects (Pinned)
 - **Product Title Classification**  
   A machine learning-powered web application built with Flask that categorizes product titles using SVM, Random Forest, and Decision Tree classifiers.  
   [View on GitHub](https://github.com/muhammadhamzagova666/product-title-classification)
@@ -51,13 +51,13 @@ He/Him
 
 ---
 
-## 📫 How to Reach Me
+### 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mhgb14@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadhamzagova666)
 
 ---
 
-## 🌐 Socials
+### 🌐 Socials
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/hamzagova666.bsky.social)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/muhammadhamzagova666)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hamzagova666)
@@ -65,7 +65,7 @@ He/Him
 
 ---
 
-## 💻 Tech Stack
+### 💻 Tech Stack
 <!-- (Icons below are arranged in a responsive grid) -->
 ![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=flat-square&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -156,14 +156,14 @@ He/Him
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=muhammadhamzagova666&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadhamzagova666&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamzagova666&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadhamzagova666&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
