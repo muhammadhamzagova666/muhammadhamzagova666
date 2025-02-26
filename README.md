@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://source.unsplash.com/1200x300/?technology)
+![Banner](https://via.placeholder.com/1200x300.png?text=Muhammad+Hamza+Gova&bg=0D1117&fg=FFFFFF)
 
 # Hi there, I'm Muhammad Hamza Gova 👋
 **Software Engineer | AI Enthusiast | FAST-NUCES Senior**
