@@ -2,9 +2,9 @@
 ![Banner](banner.png)
 
 # Hi there, I'm [Muhammad Hamza Gova](https://drive.google.com/file/d/1H7muv-FfILyozhd9bIoxPxUaOXpG3yBm/view?usp=drive_link) 👋
-**Software Engineer | AI Enthusiast | FAST-NUCES Senior**
+**Software Engineer | AI Researcher**
 
-I'm a dedicated Software Engineer and Senior at FAST-NUCES based in Karachi, Sindh, Pakistan. Passionate about building scalable applications and exploring innovative solutions in machine learning and web development, I thrive on turning complex problems into elegant solutions.
+I'm a dedicated Software Engineer based in Karachi, Sindh, Pakistan. Passionate about building scalable applications and exploring innovative solutions in machine learning and web development, I thrive on turning complex problems into elegant solutions.
 
 ---
 
