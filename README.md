@@ -1,21 +1,21 @@
 <!-- Banner -->
 ![Banner](banner.png)
 
-# Hi there, I'm [Muhammad Hamza Gova](https://drive.google.com/file/d/1H7muv-FfILyozhd9bIoxPxUaOXpG3yBm/view?usp=drive_link) 👋
+# Hi there, I'm [Muhammad Hamza Gova](https://drive.google.com/drive/u/0/folders/1MB6PiMXxb_0P6wM_2wWB80nmodiw821V) 👋
 **Software Engineer | AI Researcher**
 
 I'm a dedicated Software Engineer based in Karachi, Sindh, Pakistan. Passionate about building scalable applications and exploring innovative solutions in machine learning and web development, I thrive on turning complex problems into elegant solutions.
 
 ---
 
-### 😄 Pronouns
+### 👨 Pronouns
 He/Him
 
 ---
 
-### About Me
-- **Current Projects:**  
-  I'm developing a range of projects—from AI-powered web applications to full-stack systems and experimental AI games. My latest project, **PalmSecure**, is an advanced biometric authentication system using palmprint recognition with a Comprehensive Competition Network (CCNet) that leverages spatial competition relationships and multi-order texture features for enhanced security.
+### 😄 About Me
+- **Recent Project:**  
+  My latest project, **PalmSecure**, is an advanced biometric authentication system using palmprint recognition with a Comprehensive Competition Network (CCNet) that leverages spatial competition relationships and multi-order texture features for enhanced security.
 - **Collaboration:**  
   I'm eager to collaborate on open-source initiatives, cutting-edge AI research, and full-stack development projects.
 - **Looking for Help With:**  
@@ -26,28 +26,6 @@ He/Him
   Software development best practices, machine learning projects, full-stack web development, or my journey balancing academics and hands-on coding.
 - **Fun Fact:**  
   Every project is a new adventure in learning and creativity!
-
----
-
-### 🚀 Featured Projects (Pinned)
-- **Product Title Classification**  
-  A machine learning-powered web application built with Flask that categorizes product titles using SVM, Random Forest, and Decision Tree classifiers.  
-  [View on GitHub](https://github.com/muhammadhamzagova666/product-title-classification)
-- **Doctor Appointment System**  
-  A full-stack MERN application for managing doctor appointments with real-time scheduling and secure authentication.  
-  [View on GitHub](https://github.com/muhammadhamzagova666/doctor-appointment-system)
-- **Employee Attendance Management System**  
-  A robust system to track attendance and manage leaves with secure authentication and detailed dashboards.  
-  [View on GitHub](https://github.com/muhammadhamzagova666/employee-attendance-management-system)
-- **AI Pong NEAT**  
-  An AI-controlled Pong game powered by the NEAT algorithm, showcasing neural network evolution using Python and Pygame.  
-  [View on GitHub](https://github.com/muhammadhamzagova666/ai-pong-neat)
-- **Multiplayer Chess Game**  
-  A feature-rich chess application supporting both local and online gameplay, with AI integration via Stockfish.  
-  [View on GitHub](https://github.com/muhammadhamzagova666/multiplayer-chess-game)
-- **SAGAI24 Security Analysis**  
-  A comprehensive analysis of security architectures for Generative AI systems based on research papers presented at SAGAI'24.  
-  [View on GitHub](https://github.com/muhammadhamzagova666/SAGAI24-Security-Analysis)
 
 ---
 
@@ -67,11 +45,9 @@ He/Him
 
 ### 💻 Tech Stack
 <!-- (Icons below are arranged in a responsive grid) -->
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
@@ -87,7 +63,6 @@ He/Him
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
@@ -96,7 +71,6 @@ He/Him
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
@@ -106,7 +80,6 @@ He/Him
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
@@ -120,7 +93,6 @@ He/Him
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
